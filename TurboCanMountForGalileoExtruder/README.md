@@ -6,6 +6,5 @@ some m2 bolt
 
 turbocan : https://github.com/henrikssn/TurboCAN
 ![화면 캡처 2021-10-16 005202](https://user-images.githubusercontent.com/16078263/137516728-1349f9cb-fba8-47b6-8d1c-52ef22f21410.png)
-
-![화면 캡처 2021-09-30 154915](https://user-images.githubusercontent.com/16078263/135402441-170db041-36c4-472a-a0bf-64fec95b283e.png)
-![화면 캡처 2021-09-30 155021](https://user-images.githubusercontent.com/16078263/135402443-0643df6e-a6b4-4ee1-8ec2-22b45022e716.png)
+![화면 캡처 2021-10-16 005245](https://user-images.githubusercontent.com/16078263/137516954-dcd2de9d-1eef-436f-adc2-28f0cea4c4bb.png)
+![화면 캡처 2021-10-16 005341](https://user-images.githubusercontent.com/16078263/137516961-25b968dd-f9a4-4e89-9611-588dcc0a831b.png)
