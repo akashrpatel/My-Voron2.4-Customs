@@ -9,7 +9,7 @@ touch and unlock.
 
 PRINT Tip
 
-TURN OFF "Overhangs threshold for" chec box
+TURN OFF "Overhangs threshold for" check box
 for bridge hinge lines.
 ![화면 캡처 2022-10-26 130550](https://user-images.githubusercontent.com/16078263/197932237-0a1b09b2-02cc-46dd-b91f-bb784f744bc7.png)
 
