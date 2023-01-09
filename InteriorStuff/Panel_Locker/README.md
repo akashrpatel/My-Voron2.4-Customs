@@ -7,7 +7,16 @@ https://www.youtube.com/watch?v=6p7M18oPn3kz
 
 touch and unlock.
 
-2023-01-09 update : 90 degree setup.
+2023-01-09 updates : 
+
+engraving gap mm sign
+
+![image](https://user-images.githubusercontent.com/16078263/211242706-6bcc426b-a5f5-412f-be9b-37943408bf5a.png)
+
+![image](https://user-images.githubusercontent.com/16078263/211242761-dbbccda9-71d7-4f83-84ee-d0dd8d6dfb71.png)
+
+
+90 degree setup.
 
 ![image](https://user-images.githubusercontent.com/16078263/211242494-af2e6ea3-acd7-4703-b146-744133d81774.png)
 
